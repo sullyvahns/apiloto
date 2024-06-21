@@ -1,0 +1,101 @@
+body {
+  background-image: url(https://i0.wp.com/yourlastrites.com/wp-content/uploads/2021/04/Calico-Dreams.jpg?resize=600%2C450&ssl=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  padding: 18px;
+}
+
+h1 {
+  font-size: 50px;
+  font-style: italic;
+  font-family: Geneva;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: Verdana;
+}
+
+h3 {
+  margin-top: -18px;
+}
+
+.description {
+  font-style: italic;
+  margin-top: -15px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -13px;
+}
+
+hr {
+  height: 1px;
+  background-color: aliceblue;
+  border-color: aliceblue;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+  color:aliceblue;
+}
+
+.menu {
+  width: 80%;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+.song p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.song-title {
+  text-align: left;
+  width: 75%;
+}
+
+.song-length {
+  text-align: right;
+  width: 25%;
+}
+
+footer {
+  font-size: 13px;
+}
+
+.message {
+  margin-bottom: 5px;
+}
+
+a {
+  color: aliceblue;
+}
+
+a:visited {
+  color: aliceblue;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+a:active {
+  color: blueviolet;
+}
